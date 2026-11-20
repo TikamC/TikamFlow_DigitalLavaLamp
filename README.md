@@ -58,6 +58,5 @@ Troubleshooting
 -   Battery drain. The animation continuously uses the GPU. When running on battery power, reduce the speed or lamp size.
 -   Settings are not saved. Your browser may block localStorage in private browsing mode. If that happens, change the values in DEF.
 
-# Good luck!
-
-# Tikam
+### Good luck!
+### - Tikam
